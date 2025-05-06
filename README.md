@@ -1,5 +1,5 @@
 # cs_641_nlp
-This is the practical code in Natural Language Processing lecture.
+This is the practical code in Natural Language Processing lecture. Complete credit goes to Roger （林松善）, Yuan Ze Unversity.
 # Install Environment
 # local
 pip install -r requirement.txt
